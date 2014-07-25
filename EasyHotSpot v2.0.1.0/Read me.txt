@@ -1,0 +1,36 @@
+                                                                             |*******************|  
+                                                                             |     EasyHotspot   |
+                                                                             |*******************|
+
+NEW FEATURE:-
+
+1. No need to install .net framework for windows 7and 8.
+
+
+>> If you are connected to any network having internet access then in order to use your computer as a hotspot just run this appplication
+   with administrative privalage by right clicking it and chose the appropriate method.After running it create a network 
+   by following the steps given.
+
+>> In oreder to share the internet connection go to 
+       
+                  control pannel->Neytwork and Internet->Network and Sharing Center
+
+
+   -- on left side choose "Advance adapter setting"
+   -- right click on the adapter having internet access choose properties->Sharing
+   -- Choose the first option "Allow other network users to connect through this computer's internet connection"
+   -- IN the Drop down menu just below it "choose the newly created connection adapter" (it will be something like Wireless Network Connection 2 or 3)
+
+
+wait some time and check the connection tab.
+
+if your internet connection is not shared then go to this application again and first stop the hotspot then again start it.
+
+
+** you can use only one hotspot at a time because you have only one virtual adapter
+** If you have created a hotspot next time you just need to restart it.
+** if you want a new hotspot or change current just follow the create process it will overwrite the current settings.
+** In order to work as wireless repeater be a part of a network and then create your own hotspot and share connectivity
+
+
+for further queries write to "m.charly3015@gmail.com"
